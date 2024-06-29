@@ -6,7 +6,6 @@
 In **Shadow Dog vs Monster**, you play as a courageous dog on a quest to save its world from an invasion of terrifying monsters. Armed with determination and a rolling attack, the dog must defeat each monster to restore peace.
 
 ## Gameplay
-## Gameplay
 - **Objective**: Defeat all the monsters in each level.
 - **Controls**:
     - Use the arrow keys (up, down, left, right) to move the dog.
