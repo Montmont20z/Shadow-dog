@@ -24,12 +24,12 @@ In **Shadow Dog vs Monster**, you play as a courageous dog on a quest to save it
 1. **Movement**:
     - Use the arrow keys to move the dog:
         - **Up Arrow**: Move upward
-        - **Down Arrow**: Move downward
         - **Left Arrow**: Move left
         - **Right Arrow**: Move right
 2. **Attacking**:
     - Approach a monster and press **Enter** to activate rolling attack mode.
     - While rolling, the dog is invulnerable and can defeat monsters on contact.
+    - **Down Arrow**: Downward attack that kill all enemy below the player 
 3. **Health and Energy**:
     - Monitor your health bar at the top of the screen.
 4. **Score**:
