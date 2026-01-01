@@ -5,6 +5,9 @@
 ## Description
 In **Shadow Dog vs Monster**, you play as a courageous dog on a quest to save its world from an invasion of terrifying monsters. Armed with determination and a rolling attack, the dog must defeat each monster to restore peace.
 
+## Live Demo
+https://adorable-crisp-2d144a.netlify.app/
+
 ## How to run
 
 - Using VS Code Live Server (recommended):
