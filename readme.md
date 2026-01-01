@@ -5,6 +5,33 @@
 ## Description
 In **Shadow Dog vs Monster**, you play as a courageous dog on a quest to save its world from an invasion of terrifying monsters. Armed with determination and a rolling attack, the dog must defeat each monster to restore peace.
 
+## How to run
+
+- Using VS Code Live Server (recommended):
+    - Install the Live Server extension.
+    - Open the project in VS Code and right-click `index.html` → "Open with Live Server".
+
+- Using a simple local HTTP server (works outside VS Code):
+    - With Python 3:
+        ```bash
+        python3 -m http.server 8000
+        ```
+        Then open http://localhost:8000 in your browser.
+
+    - With Node.js `http-server` (if installed):
+        ```bash
+        npx http-server -p 8000
+        ```
+
+- Note: Opening `index.html` directly in the browser without a local server may cause some assets to fail to load due to browser file access restrictions. Using a local server ensures images and modules load correctly.
+
+Files of interest:
+- `index.html` — game entry page
+- `style.css` — styles
+- `src/` — game logic (vanilla JS modules)
+
+Optional: To publish a live demo, enable GitHub Pages for this repository and serve the repository root or the `docs/` folder
+
 ## Gameplay
 - **Objective**: Defeat all the monsters in each level.
 - **Controls**:
